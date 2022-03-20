@@ -14,3 +14,5 @@ I am Yudistira Eka Pratama, people call me Yudist. Currently studying at SMKN 1 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=deezycxde&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deezycxde&hide=TeX&layout=compact)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=deezycxde)
