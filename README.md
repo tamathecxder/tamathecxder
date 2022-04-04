@@ -4,9 +4,7 @@
 <h3 align="center">Student at SMKN 1 Cianjur🌟.</h3>
 
 <br>
-<center>
-![visitors](https://page-views.glitch.me/badge?page_id=deezycxde)
-</center>
+<img src="https://page-views.glitch.me/badge?page_id=deezycxde" />
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
