@@ -63,4 +63,4 @@
     alt="deezycxde" /></p>
 <br>
 
-<p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=deezycxde&theme=dark-smoky&date_format=j%20M%5B%20Y%5D" alt="deezycxde"></p>
+<p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=deezycxde&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="deezycxde"></p>
