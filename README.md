@@ -61,7 +61,3 @@
 <br>
 
 <p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=deezycxde&theme=dark-smoky&date_format=j%20M%5B%20Y%5D" alt="deezycxde"></p>
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deezycxde)](https://git.io/streak-stats)
