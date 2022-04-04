@@ -18,16 +18,7 @@
 
 <br>
 
-
-
-<br>
-<table border="0">
-    <tr>
-        <td>Tools</td>
-        <td>Streak</td>
-    </tr>
-    <tr>
-        <td><h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -48,9 +39,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p></td>
-    </tr>
-</table>
+      height="40" /> </a> </p>
+
+<br>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
