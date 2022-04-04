@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 <h3 align="center">Student at SMKN 1 Cianjur🌟.</h3>
 <h4 align="center"><img src="https://page-views.glitch.me/badge?page_id=deezycxde" /></h4>
-<br>
-
-
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -54,7 +51,7 @@
       </p>
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=deezycxde&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
