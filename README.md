@@ -60,4 +60,8 @@
 
 <br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deezycxde&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
+    alt="deezycxde" /></p>
+<br>
+
 <p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=deezycxde&theme=dark-smoky&date_format=j%20M%5B%20Y%5D" alt="deezycxde"></p>
