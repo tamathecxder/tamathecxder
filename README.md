@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 <h3 align="center">Student at SMKN 1 Cianjur🌟.</h3>
-<img src="![visitors](https://visitor-badge.laobi.icu/badge?page_id=deezycxde" alt="deezycxde">
 
 <br>
+
+![visitors](https://page-views.glitch.me/badge?page_id=deezycxde)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
