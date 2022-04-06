@@ -4,7 +4,7 @@
 <h3 align="center">Student at SMKN 1 Cianjur🌟.</h3>
 <h4 align="center"><img src="https://page-views.glitch.me/badge?page_id=deezycxde" /></h4>
 
-<p><img align="right" src="https://github.com/deezycxde/deezycxde/blob/main/animation_500_kxa883sd.gif" alt="deezycxde" /></p>
+<p><img align="right" src="https://github.com/deezycxde/deezycxde/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" alt="deezycxde" /></p>
 
 
 
