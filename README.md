@@ -54,13 +54,13 @@
 
 <h3 align="left">Statistical Data :</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=deezycxde&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=deezycxde&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&theme=nord"
     alt="deezycxde" 
     bg_color=#808080/></p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deezycxde&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deezycxde&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&theme=nord"
     alt="deezycxde" /></p>
 <br>
 
-<p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=deezycxde&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="deezycxde"></p>
+<p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=deezycxde&theme=nord-blue&date_format=j%20M%5B%20Y%5D" alt="deezycxde"></p>
