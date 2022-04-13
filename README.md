@@ -1,5 +1,3 @@
-## Hello There! 
-
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 <h3 align="center">Student at SMKN 1 Cianjur🌟.</h3>
 <h4 align="center"><img src="https://page-views.glitch.me/badge?page_id=deezycxde" /></h4>
