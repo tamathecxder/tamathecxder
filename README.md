@@ -43,7 +43,7 @@
       width="40" height="40" alt="jquery"/></a>
       <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
       width="40" height="40" alt="nextjs" /></a>
-      <a href="https://expressjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
+      <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
       width="40" height="40" alt="expressjs" /></a>
       <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
       width="40" height="40" alt="mongodb" /></a>
