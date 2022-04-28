@@ -68,6 +68,10 @@
     </a>
   </p>
   <br>
+  
+  <p align="right">
+    <img src="https://github.com/deezycxde/deezycxde/blob/main/animation_500_kxa883sd.gif" />
+  </p>
 
 <h3 align="left">Statistical Data :</h3>
 <p><img align="center"
