@@ -4,6 +4,7 @@
 
 <p align="center"><img src="https://i.pinimg.com/originals/d2/01/00/d20100b74f803174b49fa5ba3673d098.gif"></p>
 
+<h3 align="left">About me:</h3>
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **yudistiraeka.pratama012@gmail.com**
@@ -11,7 +12,6 @@
 - ⚡ Fun fact : TV Series and Music 🎵 are the reasons to live.
 
 <br>
-
 <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
