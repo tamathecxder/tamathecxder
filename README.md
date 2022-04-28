@@ -2,6 +2,8 @@
 <h3 align="center">Student at SMKN 1 Cianjur🌟.</h3>
 <h4 align="center"><img src="https://page-views.glitch.me/badge?page_id=deezycxde" /></h4>
 
+<p align="center"><img src="https://i.pinimg.com/originals/8e/3a/35/8e3a3524508e47bf14652e3196342568.gif"></p>
+
 <p><img align="right" src="https://github.com/deezycxde/deezycxde/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" alt="deezycxde" /></p>
 
 
@@ -10,7 +12,7 @@
 
 - 📫 How to reach me **yudistiraeka.pratama012@gmail.com**
 
-- ⚡ Fun fact :- TV Series and Music🎵 are the reasons to live.
+- ⚡ Fun fact : TV Series and Music 🎵 are the reasons to live.
 
 <br>
 
