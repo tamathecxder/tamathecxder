@@ -4,6 +4,8 @@
 
 <p align="center"><img src="https://i.pinimg.com/originals/8e/3a/35/8e3a3524508e47bf14652e3196342568.gif"></p>
 
+<p><img align="right" src="https://i.pinimg.com/originals/d2/01/00/d20100b74f803174b49fa5ba3673d098.gif"></p>
+
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **yudistiraeka.pratama012@gmail.com**
@@ -68,10 +70,6 @@
     </a>
   </p>
   <br>
-  
-  <p align="right">
-    <img src="https://github.com/deezycxde/deezycxde/blob/main/animation_500_kxa883sd.gif" />
-  </p>
 
 <h3 align="left">Statistical Data :</h3>
 <p><img align="center"
