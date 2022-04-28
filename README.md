@@ -6,8 +6,6 @@
 
 <p><img align="right" src="https://github.com/deezycxde/deezycxde/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" alt="deezycxde" /></p>
 
-
-
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **yudistiraeka.pratama012@gmail.com**
@@ -38,7 +36,7 @@
           alt="javascript" width="40" height="40" /> 
         </a>
 
-        <a href="https://laravel.com">
+        <a href="https://laravel.com" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" 
           width="40" height="40" alt="laravel" />
         </a>
@@ -63,27 +61,27 @@
           alt="sass" width="40" height="40" /> 
         </a>
 
-        <a href="https://tailwindcss.com">
+        <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
           width="40" height="40" alt="tailwind" />
         </a>
 
-        <a href="https://jquery.com">
+        <a href="https://jquery.com" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" 
           width="40" height="40" alt="jquery"/>
         </a>
 
-        <a href="https://nextjs.org">
+        <a href="https://nextjs.org" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
           width="40" height="40" alt="nextjs" />
         </a>
 
-        <a href="https://expressjs.com">
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
           width="40" height="40" alt="expressjs" />
         </a>
 
-        <a href="https://mongodb.com">
+        <a href="https://mongodb.com" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
           width="40" height="40" alt="mongodb" />
         </a>
