@@ -9,7 +9,7 @@
 * ⚡ Fun fact: TV Series and Music 🎵 are the reasons to live.
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
   <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -66,7 +66,7 @@
   </p>
   <br>
 
-<h3 align="left">Statistical Data :</h3>
+## Statistical Data:
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=deezycxde&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&theme=nord"
     alt="deezycxde" 
