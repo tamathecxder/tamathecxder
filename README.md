@@ -63,7 +63,6 @@
       alt="mongodb" />
     </a>
   </p>
-  <br>
 
 ## Statistical Data:
 <p><img align="center"
