@@ -8,7 +8,6 @@
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: TV Series and Music 🎵 are the reasons to live.
 
-<br>
 ## Languages and Tools:
   <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
