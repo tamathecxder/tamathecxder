@@ -4,7 +4,7 @@
 <p align="center"><img src="https://i.pinimg.com/originals/d2/01/00/d20100b74f803174b49fa5ba3673d098.gif"></p>
 
 ## About Me:
-* 🌱 I’m currently learning Web Development and other programming languages  
+* 🌱 I’m currently learning Web Development and Javascript Environment  
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: TV Series and Music 🎵 are the reasons to live.
 
