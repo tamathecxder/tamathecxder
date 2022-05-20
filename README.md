@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yudistira E. P.</h1>
+<h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 <h4 align="center"><img src="https://page-views.glitch.me/badge?page_id=deezycxde" /></h4>
 
 <p align="center"><img src="https://i.pinimg.com/originals/d2/01/00/d20100b74f803174b49fa5ba3673d098.gif"></p>
