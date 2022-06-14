@@ -4,7 +4,7 @@
 <p align="center"><img src="https://i.pinimg.com/originals/d2/01/00/d20100b74f803174b49fa5ba3673d098.gif"></p>
 
 ## About Me:
-* 🌱 I’m currently learning `React Js` and `MERN Stack` technology to build an amazing Web Applications
+* 🌱 I’m currently learning `Next JS` and `MERN Stack` technology to build an amazing Web Applications
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: TV Series and Music 🎵 are the reasons to live.
 
