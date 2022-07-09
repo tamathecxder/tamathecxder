@@ -34,6 +34,6 @@
 
 <p align="left">
   <a href="https://github.com/deezycxde/github=readme-streak-stats">
-    <img width="52%" src="http://github-readme-streak-stats.herokuapp.com?user=tamathecxder&theme=buefy&date_format=j%20M%5B%20Y%5D" />\
+    <img width="52%" src="http://github-readme-streak-stats.herokuapp.com?user=tamathecxder&theme=buefy&date_format=j%20M%5B%20Y%5D" />
   </a>
 </p>
