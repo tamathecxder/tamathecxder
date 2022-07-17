@@ -7,6 +7,7 @@
 * 🌱 I’m currently learning `Next JS` and `MERN Stack` technology to build an amazing Web Applications
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: `TV Series 📺` and `Music 🎵` are the reasons to live.
+* 🙌 Contacts: <a href="https://www.linkedin.com/in/yudistira-eka-pratama012/" target="_blank">LinkedIn</a>, <a href="https://www.frontendmentor.io/profile/deezycxde" target="_blank">Frontendmentor.io</a>
 
 ## Main Skills
 
