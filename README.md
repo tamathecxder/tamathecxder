@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 <h4 align="center"><img src="https://page-views.glitch.me/badge?page_id=deezycxde" /></h4>
-
 <p align="center"><img src="https://i.pinimg.com/originals/d2/01/00/d20100b74f803174b49fa5ba3673d098.gif"></p>
 
 ## About Me:
@@ -10,7 +9,6 @@
 * 🙌 Contacts: <a href="https://www.linkedin.com/in/yudistira-eka-pratama012/" target="_blank">LinkedIn</a>, <a href="https://www.frontendmentor.io/profile/deezycxde" target="_blank">Frontendmentor.io</a>
 
 ## Main Skills
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
