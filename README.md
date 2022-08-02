@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Yudistira Eka Pratama</h1>
+<h1 align="center">Hello 👋, I'm Yudistira Eka Pratama</h1>
 <h4 align="center"><img src="https://page-views.glitch.me/badge?page_id=deezycxde" /></h4>
 <p align="center"><img src="https://i.pinimg.com/originals/d2/01/00/d20100b74f803174b49fa5ba3673d098.gif"></p>
 
@@ -6,7 +6,7 @@
 * 🌱 I’m currently learning `Next JS` and `MERN Stack` technology to build an amazing Web Applications
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: `TV Series 📺` and `Music 🎵` are the reasons to live.
-* 🙌 Contacts: <a href="https://www.linkedin.com/in/yudistira-eka-pratama012/" target="_blank">LinkedIn</a>
+* 🙌 Other Contacts: <a href="https://www.linkedin.com/in/yudistira-eka-pratama012/" target="_blank">LinkedIn</a>
 
 ## Main Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
