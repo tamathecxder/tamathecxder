@@ -25,8 +25,6 @@
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 
-
-
 ## Statistical Data:
 | <a href="https://github.com/deezycxde/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tamathecxder&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Deezy's github stats" /></a> | <a href="https://github.com/deezycxde/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamathecxder&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
