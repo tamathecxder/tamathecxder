@@ -6,7 +6,7 @@
 * 🌱 I’m currently learning `Next JS` and `MERN Stack` technology to build an amazing Web Applications.
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: `TV Series 📺` and `Music 🎵` are the reasons to live.
-* 🙌 Other Contacts: <a href="https://www.linkedin.com/in/yudistira-eka-pratama012/" target="_blank">LinkedIn</a><a href="https://tamathecxder.showwcase.com" target="_blank">Showwcase</a>
+* 🙌 Other Contacts: <a href="https://www.linkedin.com/in/yudistira-eka-pratama012/" target="_blank">LinkedIn</a>, <a href="https://tamathecxder.showwcase.com" target="_blank">Showwcase</a>
 
 ## Main Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
