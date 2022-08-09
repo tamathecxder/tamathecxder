@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 <h4 align="center"><img src="https://page-views.glitch.me/badge?page_id=deezycxde" /></h4>
-<p align="center"><img src="https://github.com/tamathecxder/tamathecxder/blob/main/wallpaper-gif-pc-3.gif" width="650"></p>
+<p align="center"><img src="https://github.com/tamathecxder/tamathecxder/blob/main/wallpaper-gif-pc-3.gif" width="500"></p>
 
 ## About Me:
 * 🌱 I’m currently learning `Next JS` and `MERN Stack` technology to build an amazing Web Applications.
