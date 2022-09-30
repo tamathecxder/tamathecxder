@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 <h4 align="center"><img src="https://page-views.glitch.me/badge?page_id=deezycxde" /></h4>
-<p align="center"><img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="500"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="520"></p>
 
 ## About Me:
 * 🌱 I’m currently learning `Dart` and `Flutter` framework to build an Multi Platform Applications.
