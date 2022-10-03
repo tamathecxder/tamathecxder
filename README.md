@@ -3,7 +3,7 @@
 <p align="center"><img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="520"></p>
 
 ## About Me:
-* 🌱 I’m currently learning `Dart` and `Flutter` framework to build an Multi Platform Applications.
+* 🌱 I’m currently learning `Dart` and `Flutter` Framework to build a Multi Platform Applications.
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: `TV Series 📺` and `Lofi Music 🎵` are the reasons to live.
 * 🙌 Other Contacts: <a href="https://www.linkedin.com/in/yudistira-eka-pratama012/" target="_blank">LinkedIn</a>, <a href="https://tamathecxder.showwcase.com" target="_blank">Showwcase</a>
