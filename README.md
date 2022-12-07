@@ -31,9 +31,3 @@
 ## Statistical Data:
 | <a href="https://github.com/deezycxde/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tamathecxder&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Deezy's github stats" /></a> | <a href="https://github.com/deezycxde/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamathecxder&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-<p align="left">
-  <a href="https://github.com/deezycxde/github=readme-streak-stats">
-    <img width="52%" src="http://github-readme-streak-stats.herokuapp.com?user=tamathecxder&theme=buefy&date_format=j%20M%5B%20Y%5D" />
-  </a>
-</p>
