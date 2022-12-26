@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=tamathecxder&label=Profile%20Views&color=12&icon=0&pretty=true" />
+  </a>
+</div>
 <p align="center"><img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="520"></p>
 
 ## About Me:
@@ -20,8 +25,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=tamathecxder&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
