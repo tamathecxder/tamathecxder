@@ -7,7 +7,7 @@
 <p align="center"><img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="520"></p>
 
 ## About Me:
-* 🌱 I am currently learning `Kotlin` and `Android Studio` to strengthen my skills to become a Mobile Apps Developer.
+* 🌱 I am currently learning `Docker` and `CI/CD` to expand my knowledge in DevOps.
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: `TV Series 📺` and `Lofi Music 🎵` are the reasons to live.
 * 🙌 ...
