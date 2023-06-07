@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
+<h1 align="center">Hello, I'm Yudistira Eka Pratama</h1>
 <div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=tamathecxder&label=Profile%20Views&color=12&icon=0&pretty=true" />
