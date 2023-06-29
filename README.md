@@ -7,7 +7,7 @@
 <p align="center"><img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="520"></p>
 
 ## About Me
-* 🌱 I am currently re-learning React and Next.js to expand my knowledge and skills in modern web development.
+* 🌱 I am currently re-learning `React` and `Next.js` to expand my knowledge and skills in modern web development.
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: `TV Series 📺` and `Lofi Music 🎵` are the reasons to live.
 * 🙌 You can ask me anything about `Front-End` and `Back-End` topics.
