@@ -4,7 +4,7 @@
     <img src="https://visitcount.itsvg.in/api?id=tamathecxder&label=Profile%20Views&color=12&icon=0&pretty=true" />
   </a>
 </div>
-<p align="center"><img src="https://media.tenor.com/8csUklR4aSAAAAAC/anime.gif" width="520"></p>
+<p align="center"><img src="https://qph.cf2.quoracdn.net/main-qimg-968f686993b24a420e969aac415e27a0" width=""></p>
 
 ## About Me
 * 🌱 I am currently re-learning `React` and `Next.js` to expand my knowledge and skills in modern web development.
