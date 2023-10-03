@@ -9,7 +9,7 @@
 ## About Me
 * 🌱 I am currently re-learning `React` and `Next.js` to expand my knowledge and skills in modern web development.
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
-* ⚡ Fun fact: `TV Series 📺` and `Lofi Music 🎵` are the reasons to live.
+* ⚡ Fun fact: There's no fun fact here
 * ...
 
 ## Tech Stack
