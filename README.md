@@ -1,9 +1,4 @@
 <h1 align="center">Hello 👋, I'm Yudistira Eka Pratama</h1>
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=tamathecxder&label=Profile%20Views&color=12&icon=0&pretty=true" />
-  </a>
-</div>
 <p align="center"><img src="https://qph.cf2.quoracdn.net/main-qimg-968f686993b24a420e969aac415e27a0" width=""></p>
 
 ## About Me
