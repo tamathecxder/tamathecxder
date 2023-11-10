@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-* 🌱 I am currently re-learning `React` and `Next.js` to expand my knowledge and skills in modern web development.
+* 🌱 I am currently re-learning `React`, `Next.js` & `Tailwind CSS` to expand my knowledge and skills in modern web development.
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: There's no fun fact here
 * ...
