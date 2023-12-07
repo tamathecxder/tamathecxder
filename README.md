@@ -7,7 +7,7 @@
 ## About Me
 * 🌱 I am currently learning `Golang` & `PostgreSQL` to expand my knowledge and skills in back-end development also in microservice things.
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
-* ⚡ Fun fact: There's no fun fact here
+* ⚡ Fun fact: I dunno...
 * ...
 
 ## Tech Stack
