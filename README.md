@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-* 🌱 I am currently learning `Golang` & `PostgreSQL` to expand my knowledge and skills in back-end development also in microservice things.
+* 🌱 I am currently learning `Angular` & `Ionic` to expand my knowledge and skills in front-end development.
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ⚡ Fun fact: I dunno... i fill this later
 * ...
