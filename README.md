@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-* 🌱 I am currently learning `Angular` & `Ionic` to expand my knowledge and skills in front-end development.
+* 🌱 I am currently learning `Angular`, `Ionic` & `Flutter` to expand my knowledge and skills in front-end development.
 * 📫 How to reach me: **yudistiraeka.pratama012@gmail.com**
 * ........
 
