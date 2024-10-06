@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c3/7b/d1/c37bd1db09ab4fac0fdb2a52462df4d3.gif" width="49.5%" height="400px">
-  <img src="https://github.com/tamathecxder/tamathecxder/blob/main/animesher.com_movie-kotonoha-no-niwa-anime-scenery-528384.gif?raw=true" width="49.5%" height="400px">
+  <img src="https://i.pinimg.com/originals/c3/7b/d1/c37bd1db09ab4fac0fdb2a52462df4d3.gif" style="object-fit: cover;" width="49.5%" height="280px" min-width="300px">
+  <img src="https://github.com/tamathecxder/tamathecxder/blob/main/animesher.com_movie-kotonoha-no-niwa-anime-scenery-528384.gif?raw=true" style="object-fit: cover;" width="49.5%" height="280px" min-width="300px">
 </p>
 
 ## About Me
