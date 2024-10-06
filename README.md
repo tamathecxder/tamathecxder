@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/f9037cd8791377b1785bead36f1ee935/9a5bfe567b4959d2-78/s500x750/cb6b8fa275d1c3210e3e235dffa6865d5e59f210.gif" width="100%" style="object-fit: cover; height: 500px;">
+  <img src="https://64.media.tumblr.com/f9037cd8791377b1785bead36f1ee935/9a5bfe567b4959d2-78/s500x750/cb6b8fa275d1c3210e3e235dffa6865d5e59f210.gif" width="100%" style="object-fit: cover; height: 300px;">
 </div>
 
 ## About Me
