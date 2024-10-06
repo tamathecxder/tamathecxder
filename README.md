@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/c3/7b/d1/c37bd1db09ab4fac0fdb2a52462df4d3.gif" style="object-fit: cover;" width="49%" height="260px">
-  <img src="https://i.pinimg.com/originals/e3/31/d5/e331d5f2da8838fc0b19186fa0d73c20.gif" style="object-fit: cover;" width="49%" height="260px">
+  <img src="https://animesher.com/orig/0/52/528/5283/animesher.com_movie-kotonoha-no-niwa-anime-scenery-528384" style="object-fit: cover;" width="49%" height="260px">
 </p>
 
 ## About Me
