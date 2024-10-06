@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c3/7b/d1/c37bd1db09ab4fac0fdb2a52462df4d3.gif" style="object-fit: cover;" width="49.5%" height="280px" min-width="300px">
-  <img src="https://github.com/tamathecxder/tamathecxder/blob/main/animesher.com_movie-kotonoha-no-niwa-anime-scenery-528384.gif?raw=true" style="object-fit: cover;" width="49.5%" height="280px" min-width="300px">
-</p>
+<div align="center">
+  <img src="https://64.media.tumblr.com/f9037cd8791377b1785bead36f1ee935/9a5bfe567b4959d2-78/s500x750/cb6b8fa275d1c3210e3e235dffa6865d5e59f210.gif" width="100%" style="object-fit: cover; height: 500px;">
+</div>
 
 ## About Me
 * 🌱 I am currently learning `Angular`, `Ionic` & `Flutter` to expand my knowledge and skills in front-end development.
