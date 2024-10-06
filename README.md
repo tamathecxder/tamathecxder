@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
-<div>
-  <img src="https://qph.cf2.quoracdn.net/main-qimg-968f686993b24a420e969aac415e27a0" width="49%">
-  <img src="https://windowscustomization.com/wp-content/uploads/2019/05/Anime.gif" width="49%">
-</div>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c3/7b/d1/c37bd1db09ab4fac0fdb2a52462df4d3.gif" style="object-fit: cover;" width="49%" height="260px">
+  <img src="https://i.pinimg.com/originals/e3/31/d5/e331d5f2da8838fc0b19186fa0d73c20.gif" style="object-fit: cover;" width="49%" height="260px">
+</p>
 
 ## About Me
 * 🌱 I am currently learning `Angular`, `Ionic` & `Flutter` to expand my knowledge and skills in front-end development.
