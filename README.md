@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-* 🌱 I am currently learning `Angular`, `Ionic` & `Flutter` to expand my knowledge and skills in front-end development.
+* 🌱 I am currently enhancing my knowledge and skills in front-end development by learning `Kotlin`, `Android Development`, `Jetpack Compose`, and `Flutter`.
 * 📫 How to reach me: <a href="https://www.instagram.com/distyouugly">Instagram</a>, <a href="https://www.linkedin.com/in/yudistira-eka-pratama/">LinkedIn</a>, or <a href="https://www.facebook.com/yudistira.eka.988">Facebook</a>
 * ........
 
