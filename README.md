@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yudistira Eka Pratama</h1>
 
-<div align="center">
-  <img src="https://orionmagazine.org/wp-content/uploads/2021/02/nqL.gif" width="100%" height="400">
+<div>
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-968f686993b24a420e969aac415e27a0" width="49%">
+  <img src="https://windowscustomization.com/wp-content/uploads/2019/05/Anime.gif" width="49%">
 </div>
 
 ## About Me
