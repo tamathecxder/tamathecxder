@@ -6,7 +6,7 @@
 </div>
 
 ## About Me
-* 🌱 I am currently enhancing my knowledge and skills in front-end development by learning `Kotlin`, `Android Development`, `Jetpack Compose`, and `Flutter`.
+* 🌱 I am currently enhancing my knowledge and skills in front-end development by learning `Kotlin`, `Android Development`, `Jetpack Compose`, `Flutter` and `React.js`.
 * 💡 I truly enjoy exploring music from various genres, movies, and everything related to art. 
 * 🧢 I am a mosaic of selves, shifting with each soul I encounter. If you stumble upon a fragment of me that feels out of sync with your reality, I kindly seek your understanding.
 
