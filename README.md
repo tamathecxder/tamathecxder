@@ -6,7 +6,7 @@
 </div>
 
 ## About Me
-* 🌱 I am currently enhancing my knowledge and skills in front-end development by learning `Kotlin`, `Android Development`, `Jetpack Compose`, `Flutter` and `React.js`.
+* 🌱 I am currently enhancing my knowledge and skills in front-end development by learning `Svelte`, `SvelteKit`, `Flutter` and `React.js`.
 * 💡 I truly enjoy exploring music from various genres, movies, and everything related to art. 
 * 🧢 ...
 
